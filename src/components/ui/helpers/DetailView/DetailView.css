@@ -1,0 +1,11 @@
+.detail-container {
+  display: flex;
+}
+
+.detail-title {
+  font-weight: bold;
+}
+
+.detail-section {
+  display: block;
+}
