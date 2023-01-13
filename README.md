@@ -2,7 +2,7 @@
 ### Instructions
 
 1. Clone repo
-2. cd eventfarm_react_rover
+2. cd Javascriptreact_rover
 3. npm install
 4. npm start
 
